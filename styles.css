@@ -153,3 +153,7 @@ h2 {
 .myInterest {
     margin: 2em;
 }
+
+.res-header, .res-para {
+    text-align: center;
+}
